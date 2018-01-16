@@ -1,0 +1,18 @@
+0 silly input [ 'lerna-exp-upper' ]
+1 silly flags { _: [ 'add' ],
+1 silly flags   'reject-cycles': false,
+1 silly flags   rejectCycles: false,
+1 silly flags   scope: 'lerna-exp-all',
+1 silly flags   _onRejected: [Function: _onRejected],
+1 silly flags   args: [ 'lerna-exp-upper' ] }
+2 verbose rootPath /Users/dan/projects/tutorials/lerna-experiment
+3 info version 2.7.1
+4 silly isInitialized
+5 silly isInitialized true
+6 silly existsSync /Users/dan/projects/tutorials/lerna-experiment/VERSION
+7 info scope lerna-exp-all
+8 silly initialize attempt
+9 error initialize callback with error
+10 error Error: Package `lerna-exp-upper` doesn't exist
+10 error     at got.then.catch.err (/Users/dan/.nvm/versions/node/v9.4.0/lib/node_modules/lerna/node_modules/package-json/index.mjs:62:11)
+10 error     at <anonymous>

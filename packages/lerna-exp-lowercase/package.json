@@ -1,0 +1,15 @@
+{
+  "name": "lerna-exp-lowercase",
+  "version": "0.0.1",
+  "description": "Sub-package which converts strings to lower case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dan-j/lerna-experiment/packages/lerna-exp-lowercase"
+  },
+  "author": "dan-j <5727701+dan-j@users.noreply.github.com>",
+  "license": "MIT"
+}
