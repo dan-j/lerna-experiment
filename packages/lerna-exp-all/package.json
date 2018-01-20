@@ -1,8 +1,8 @@
 {
   "name": "@dsjones/lerna-exp-all",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Core package for this lerna experiment",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,7 @@
   "author": "dan-j <5727701+dan-j@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "@dsjones/lerna-exp-lowercase": "^0.0.1",
-    "@dsjones/lerna-exp-uppercase": "^0.0.1"
+    "@dsjones/lerna-exp-lowercase": "^0.0.2",
+    "@dsjones/lerna-exp-uppercase": "^0.0.2"
   }
 }

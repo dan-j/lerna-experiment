@@ -1,8 +1,8 @@
 {
   "name": "@dsjones/lerna-exp-lowercase",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sub-package which converts strings to lower case",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
