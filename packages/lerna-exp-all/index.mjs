@@ -1,5 +1,5 @@
-import toUpper from 'lerna-exp-uppercase';
-import toLower from 'lerna-exp-lowercase';
+import toUpper from '@dsjones/lerna-exp-uppercase';
+import toLower from '@dsjones/lerna-exp-lowercase';
 
 const arg = process.argv[2];
 console.log(`Received argument: ${arg}`);

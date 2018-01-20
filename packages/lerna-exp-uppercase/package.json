@@ -1,5 +1,5 @@
 {
-  "name": "lerna-exp-uppercase",
+  "name": "@dsjones/lerna-exp-uppercase",
   "version": "0.0.1",
   "description": "Sub-package which converts strings to upper case",
   "main": "index.js",

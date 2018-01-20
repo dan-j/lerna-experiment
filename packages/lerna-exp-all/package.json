@@ -1,5 +1,5 @@
 {
-  "name": "lerna-exp-all",
+  "name": "@dsjones/lerna-exp-all",
   "version": "0.0.1",
   "description": "Core package for this lerna experiment",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "author": "dan-j <5727701+dan-j@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "lerna-exp-lowercase": "^0.0.1",
-    "lerna-exp-uppercase": "^0.0.1"
+    "@dsjones/lerna-exp-lowercase": "^0.0.1",
+    "@dsjones/lerna-exp-uppercase": "^0.0.1"
   }
 }

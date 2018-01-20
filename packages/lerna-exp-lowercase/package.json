@@ -1,5 +1,5 @@
 {
-  "name": "lerna-exp-lowercase",
+  "name": "@dsjones/lerna-exp-lowercase",
   "version": "0.0.1",
   "description": "Sub-package which converts strings to lower case",
   "main": "index.js",
